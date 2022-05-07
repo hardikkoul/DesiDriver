@@ -9,4 +9,4 @@ STEPS TO PLAY ::
 
 OBJECTIVE OF GAME :: 
 
-The main objective of the game is to drive the car around the map and collect MONEY BAGS spawned arounf the map and deliver them to a MAN. SIMPLE !!
+The main objective of the game is to drive the car around the map and collect MONEY BAGS and deliver them to a MAN. SIMPLE !!
