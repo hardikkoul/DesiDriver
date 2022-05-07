@@ -4,5 +4,5 @@ This project is a basic 2D Game developed in order to understand the Unity Funct
 
 STEPS TO PLAY ::
 
-1) Open GameRender Folder 
-2) Download DesiDriver.exe and Enjoy.
+1) Download the contents of Game Render folder into your local.
+2) Open DesiDriver.exe and Enjoy.
